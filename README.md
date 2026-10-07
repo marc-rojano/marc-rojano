@@ -1,8 +1,8 @@
 # ¡Hola! Soy Marc 👋
 
-Desarrollador de Software | Técnico Superior en DAM, formación teórica en DAW completada
+Desarrollador Fullstack Junior | Técnico Superior en DAM y DAW completado
 
-🎯 Actualmente buscando una oportunidad para incorporarme a una empresa y completar mis prácticas profesionales (FCT) de DAW mediante un trabajo real.
+🎯 Tras finalizar mi formación y mi experiencia profesional en prácticas, actualmente busco mi primer rol como desarrollador junior para aportar valor a un equipo, participar en proyectos reales y seguir creciendo profesionalmente.
 
 ## 🛠️ Tecnologías
 
@@ -40,7 +40,17 @@ Desarrollador de Software | Técnico Superior en DAM, formación teórica en DAW
 
 ## 📌 Proyectos destacados
 
-*(próximamente — estoy preparando nuevos proyectos para mostrar aquí)*
+### 💻 [Foro Social para el Sector Informático](#)
+*Plataforma de microblogging orientada a la comunidad informática.*
+- **Stack:** React, Node.js, Laravel, SQL.
+- **Características:** Autenticación mediante Google, integración con Gmail para correos automatizados y funcionalidades basadas en IA/ML.
+
+### 🎮 [Videojuego 3D Multijugador + Panel Web](#)
+*Entorno 3D interactivo conectado a una plataforma de gestión web.*
+- **Stack:** Unity (Entorno 3D), Vue.js (Panel Web), Node.js, SQL, MongoDB.
+- **Características:** Sincronización en tiempo real y comunicación fluida entre la aplicación web y el entorno de juego.
+
+*(Haz clic en los títulos para ver el código fuente y las instrucciones de instalación de cada proyecto).*
 
 ## 📫 Contacto
 
