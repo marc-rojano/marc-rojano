@@ -7,27 +7,31 @@ Desarrollador Fullstack Junior | Técnico Superior en DAM y DAW completado
 ## 🛠️ Tecnologías
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Bases de datos**
+
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,6 +40,7 @@ Desarrollador Fullstack Junior | Técnico Superior en DAM y DAW completado
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Móvil / Específico**
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -44,12 +49,12 @@ Desarrollador Fullstack Junior | Técnico Superior en DAM y DAW completado
 
 ### 💻 [Foro Social para el Sector Informático](#)
 *Plataforma de microblogging orientada a la comunidad informática.*
-- **Stack:** React, Node.js, Laravel, SQL.
+- **Tecnologías utilizadas:** React, Node.js, Laravel, SQL.
 - **Características:** Autenticación mediante Google, integración con Gmail para correos automatizados y funcionalidades basadas en IA/ML.
 
 ### 🎮 [Videojuego 3D Multijugador + Panel Web](#)
 *Entorno 3D interactivo conectado a una plataforma de gestión web.*
-- **Stack:** Unity (Entorno 3D), Vue.js (Panel Web), Node.js, SQL, MongoDB.
+- **Tecnologías utilizadas:** Unity (Entorno 3D), Vue.js (Panel Web), Node.js, SQL, MongoDB.
 - **Características:** Sincronización en tiempo real y comunicación fluida entre la aplicación web y el entorno de juego.
 
 *(Haz clic en los títulos para ver el código fuente y las instrucciones de instalación de cada proyecto).*
