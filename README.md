@@ -47,17 +47,20 @@ Desarrollador Fullstack Junior | Técnico Superior en DAM y DAW completado
 
 ## 📌 Proyectos destacados
 
-### 💻 [Foro Social para el Sector Informático](https://github.com/marc-rojano/C0dex)
+### 💻 [C0dex - Foro Social para el Sector Informático](https://github.com/marc-rojano/C0dex)
 *Plataforma de microblogging orientada a la comunidad informática.*
 - **Tecnologías utilizadas:** React, Node.js, Laravel, SQL.
 - **Características:** Autenticación mediante Google, integración con Gmail para correos automatizados y funcionalidades basadas en IA/ML.
 
-### 🎮 [Videojuego 3D Multijugador + Panel Web](#)
+### 🎮 LethalRun: Videojuego 3D Multijugador + Panel Web
 *Entorno 3D interactivo conectado a una plataforma de gestión web.*
 - **Tecnologías utilizadas:** Unity (Entorno 3D), Vue.js (Panel Web), Node.js, SQL, MongoDB.
 - **Características:** Sincronización en tiempo real y comunicación fluida entre la aplicación web y el entorno de juego.
+- **Repositorios del proyecto:** 
+  - [🖥️ Ver código Web y Backend](https://github.com/marc-rojano/LethalRun-Web) 
+  - [🕹️ Ver código Unity y Documentación](https://github.com/marc-rojano/LethalRun-Unity)
 
-*(Haz clic en los títulos para ver el código fuente y las instrucciones de instalación de cada proyecto).*
+*(Haz clic en los enlaces para explorar el código fuente, la documentación y las descargas de cada proyecto).*
 
 ## 📫 Contacto
 
