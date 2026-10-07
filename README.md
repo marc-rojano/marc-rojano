@@ -47,7 +47,7 @@ Desarrollador Fullstack Junior | Técnico Superior en DAM y DAW completado
 
 ## 📌 Proyectos destacados
 
-### 💻 [Foro Social para el Sector Informático](#)
+### 💻 [Foro Social para el Sector Informático](https://github.com/marc-rojano/C0dex)
 *Plataforma de microblogging orientada a la comunidad informática.*
 - **Tecnologías utilizadas:** React, Node.js, Laravel, SQL.
 - **Características:** Autenticación mediante Google, integración con Gmail para correos automatizados y funcionalidades basadas en IA/ML.
